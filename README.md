@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfólio -  Assessor de Comunicação Digital
 
-## Getting Started
+## 📝 Descrição do Projeto
+Este projeto consiste na criação de uma landing page um Assessor de Comunicação Digital. A página tem como objetivo apresentar os serviços oferecidos pelo assessor de forma atrativa e convincente, destacando suas experiências e habilidades na área de comunicação digital.
 
-First, run the development server:
+## 🎯 Objetivo
+O objetivo principal desta landing page é promover os serviços do assessor de comunicação digital e atrair potenciais clientes, como agências e órgãos governamentais, interessados em obter serviços de gravação e edição de vídeos de qualidade, bem como redação de textos chamativos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun run dev
-```
+## 🎨 Características do Projeto
+**Design responsivo:** A página é desenvolvida com foco na responsividade, garantindo uma experiência de usuário otimizada em dispositivos móveis, tablets e desktops.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Cores e Identidade:** O design da página mantém uma paleta de cores preto e branco, refletindo a simplicidade e a elegância da mensagem a ser transmitida.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Seções Principais:** A página é composta por diferentes seções, incluindo "Sobre Mim", "Nossos Serviços", "Contato" e outras informações relevantes para proporcionar uma experiência completa ao visitante.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 💻 Tecnologias Utilizadas
+**HTML5:** Linguagem de marcação para estruturar o conteúdo da página.
 
-## Learn More
+**CSS3:** Linguagem de estilo para definir a aparência e layout da página.
 
-To learn more about Next.js, take a look at the following resources:
+**Typescript:** Linguagem de programação para adicionar tipagem estática ao JavaScript.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Next.js:** Framework de React que oferece recursos avançados de renderização e otimização para construção de aplicações web.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Tailwind CSS:** Framework CSS utilitário que facilita a estilização e criação de layouts responsivos.
 
-## Deploy on Vercel
+## 👨🏽‍💻 Autor
+### Fred Bettecher 🐱‍💻
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📧 fredbettecher@gmail.com | 📱 (21) 99630-7872
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📃 Licença
+Este projeto está licenciado sob a <ins>*Mozilla Public License 2.0*</ins>, o que significa que você pode usá-lo livremente para fins pessoais ou comerciais, de acordo com os termos da licença.
