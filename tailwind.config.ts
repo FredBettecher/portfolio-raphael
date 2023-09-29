@@ -16,7 +16,7 @@ const config: Config = {
       backgroundColor: {
         'custom-white': '#e0e0e0',
         'custom-black': '#1a1a1a',
-      }
+      },
     },
   },
   plugins: [],

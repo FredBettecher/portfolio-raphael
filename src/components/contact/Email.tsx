@@ -4,8 +4,8 @@ export function Email() {
   const emailSection = "w-[29.31rem] flex flex-col align-start mt-4";
   const iconStyle = "text-4xl text-[#e0e0e0]";
   const iconTxtStyle = "ml-1 text-[#e0e0e0]";
-  const inputStyle = "bg-custom-white text-[#1a1a1a] mb-2 pl-2 rounded border-none focus:ring-white placeholder:text-[#1a1a1a]";
-  const btnStyle = "bg-[#e0e0e0] text-[#1a1a1a] rounded font-bold w-32 h-8 cursor-pointer hover:opacity-90 active:scale-95";
+  const inputStyle = "bg-white text-[#1a1a1a] mb-2 pl-2 rounded border-none focus:ring-white placeholder:text-[#1a1a1a]";
+  const btnStyle = "bg-white text-[#1a1a1a] rounded font-bold w-32 h-8 cursor-pointer hover:opacity-90 active:scale-95";
 
   return (
     <>

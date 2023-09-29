@@ -1,7 +1,7 @@
 import { montserrat } from "@/assets/fonts";
 
 export function Title() {
-  const titleStyle = "text-2xl mb-2 font-bold italic";
+  const titleStyle = "text-2xl mb-2 font-bold";
 
   return (
     <>
