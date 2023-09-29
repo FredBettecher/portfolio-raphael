@@ -25,7 +25,7 @@ O objetivo principal desta landing page é promover os serviços do assessor de 
 **Tailwind CSS:** Framework CSS utilitário que facilita a estilização e criação de layouts responsivos.
 
 ## 👨🏽‍💻 Autor
-### Fred Bettecher 🐱‍💻
+🐱‍💻 [FredBettecher](https://github.com/FredBettecher)
 
 📧 fredbettecher@gmail.com | 📱 (21) 99630-7872
 
