@@ -1,7 +1,7 @@
 import { montserrat } from "@/assets/fonts";
 
 export function Header() {
-  const headerStyle = "bg-transparent absolute z-10 top-0 w-full h-16 border-b flex justify-around items-center font-bold text-2xl";
+  const headerStyle = "bg-transparent absolute z-10 top-0 w-full h-16 border-b flex justify-around items-center font-extrabold text-2xl";
   const navStyle = "cursor-pointer transition duration-75 ease-in-out active:scale-95";
 
   return (

@@ -7,7 +7,7 @@ export function AboutMe() {
   const imgStyle = "rounded w-auto h-auto";
   
   return (
-    <section className="h-full w-auto pt-8 bg-[#1a1a1a] flex justify-around">
+    <section className="h-full w-auto pt-8 flex justify-around">
       <div className="w-[35%]">
         <Image src={'/images/about-me.png'} alt="about-me-image" width={500} height={500} className={imgStyle}/>
       </div>

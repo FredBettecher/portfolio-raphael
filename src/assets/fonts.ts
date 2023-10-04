@@ -2,13 +2,13 @@ import { Lato, Montserrat, Roboto } from 'next/font/google';
 
 const lato = Lato({
   subsets: ['latin'],
-  weight: ['400', '700'],
+  weight: ['400', '700', '900'],
   style: ['normal', 'italic'],
 });
 
 const montserrat = Montserrat({
   subsets: ['latin'],
-  weight: ['400', '700'],
+  weight: ['400', '700', '800'],
   style: ['normal', 'italic'],
 });
 
